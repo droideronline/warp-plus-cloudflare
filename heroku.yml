@@ -1,0 +1,2 @@
+run:
+  worker: bash python3 wp-plus.py
