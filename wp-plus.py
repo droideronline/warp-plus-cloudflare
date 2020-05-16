@@ -18,7 +18,7 @@ print ("[-] A; Go this route and copy the WARP+ ID => Setting/Advanced/Diagnosti
 print ("-----------------------------------------------------------------------------")
 print ("This script is coded by aliilapro [ aliilapro.github.io ]") 
 print ("-----------------------------------------------------------------------------")
-referrer = input("Enter the WARP+ ID: ")
+referrer = 38b94c12-9fd2-4e1a-9056-e7f173f44997("Enter the WARP+ ID: ")
 def genString(stringLength):
     letters = string.ascii_letters + string.digits
     return ''.join(random.choice(letters) for i in range(stringLength))
